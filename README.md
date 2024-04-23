@@ -1,5 +1,10 @@
 # k8s-services
 
+## Dependencies
+
+- Install `kubectl` and `minikube` with HomeBrew: `brew install kubectl`, `brew install minikube` or usign their documentation: https://kubernetes.io/docs/tasks/tools/
+- Install `docker` with HomeBrew: `brew install docker` or using their documenation: https://docs.docker.com/engine/install/
+
 ## Frontend
 
 - Access folder
