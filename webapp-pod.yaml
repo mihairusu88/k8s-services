@@ -8,4 +8,4 @@ metadata:
 spec:
   containers:
   - name: webapp
-    image: dyno/webapp:release0
+    image: k8s/webapp:release0
