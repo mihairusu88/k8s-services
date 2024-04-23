@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: api
+  labels:
+    app: api
+    release: "0"
+spec:
+  containers:
+  - name: api
+    image: dyno/api:release0
